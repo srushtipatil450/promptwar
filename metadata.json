@@ -1,0 +1,6 @@
+{
+  "name": "LabLink — Campus Laboratory Ecosystem",
+  "description": "Intelligent campus laboratory resource-sharing, scheduling, compatibility, safety readiness, and equipment tracking platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
